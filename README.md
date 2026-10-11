@@ -12,14 +12,19 @@
 <a href="https://linkedin.com/in/yusuf-hussain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yusuf.aman00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/918789657886"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Yusuf-Hussain25&style=for-the-badge&color=36D1DC&label=PROFILE+VIEWS" />
-
-</div>
 
 <br/>
 
+<img src="https://img.shields.io/badge/30,000%2B_users_served-36D1DC?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Best_Employee_of_the_Year_2026-FFD700?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open_to_work-2EA44F?style=flat-square&labelColor=0D1117" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/Yusuf-Hussain25/Yusuf-Hussain25/main/assets/divider.svg" />
+
 <!-- ====================== ABOUT ====================== -->
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 ```ts
 const yusuf = {
@@ -42,20 +47,23 @@ const yusuf = {
 <br/>
 
 <!-- ====================== TECH STACK ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/Yusuf-Hussain25/Yusuf-Hussain25/main/assets/divider.svg" />
+
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
 **AI / LLM**
 
-<img src="https://skillicons.dev/icons?i=openai,python,pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-1C17FF?style=for-the-badge&logo=pinecone&logoColor=white" />
 
 **Languages & Frontend**
 
@@ -74,6 +82,8 @@ const yusuf = {
 <br/>
 
 <!-- ====================== PROJECTS ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/Yusuf-Hussain25/Yusuf-Hussain25/main/assets/divider.svg" />
+
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
@@ -96,14 +106,16 @@ const yusuf = {
 <br/>
 
 <!-- ====================== STATS ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/Yusuf-Hussain25/Yusuf-Hussain25/main/assets/divider.svg" />
+
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yusuf-Hussain25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC&icon_color=36D1DC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Hussain25&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yusuf-Hussain25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC&icon_color=36D1DC&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Hussain25&layout=compact&langs_count=8&hide_border=true&disable_animations=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC&text_color=C9D1D9" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=Yusuf-Hussain25&hide_border=true&theme=tokyonight&background=0D1117&ring=36D1DC&fire=36D1DC&currStreakLabel=36D1DC" />
+<img height="170" src="https://streak-stats.demolab.com?user=Yusuf-Hussain25&hide_border=true&disable_animations=true&theme=tokyonight&background=0D1117&ring=36D1DC&fire=36D1DC&currStreakLabel=36D1DC&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -120,15 +132,6 @@ const yusuf = {
 
 <br/>
 
-<!-- ====================== CONTRIBUTIONS ====================== -->
-## 🌱 &nbsp;Contribution Graph
-
-<div align="center">
-  <img width="92%" src="https://ghchart.rshah.org/36D1DC/Yusuf-Hussain25" alt="Contribution chart" />
-</div>
-
-<br/>
-
 <!-- ====================== SNAKE ====================== -->
 <div align="center">
 
@@ -139,6 +142,8 @@ const yusuf = {
 <br/>
 
 <!-- ====================== CONTACT ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/Yusuf-Hussain25/Yusuf-Hussain25/main/assets/divider.svg" />
+
 ## 🤝 &nbsp;Let's Build Something
 
 <div align="center">
