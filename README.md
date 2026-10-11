@@ -112,7 +112,7 @@ const yusuf = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yusuf-Hussain25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC&icon_color=36D1DC&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yusuf-Hussain25&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs&rank_icon=percentile&hide_border=true&disable_animations=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC&icon_color=36D1DC&text_color=C9D1D9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Hussain25&layout=compact&langs_count=8&hide_border=true&disable_animations=true&theme=tokyonight&bg_color=0D1117&title_color=36D1DC&text_color=C9D1D9" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=Yusuf-Hussain25&hide_border=true&disable_animations=true&theme=tokyonight&background=0D1117&ring=36D1DC&fire=36D1DC&currStreakLabel=36D1DC&sideLabels=C9D1D9&dates=8B949E" />
